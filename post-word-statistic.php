@@ -10,6 +10,7 @@ Text Domain: wcplugin
 Domain Path: /languages
 */
 
+if (!defined('ABSPATH')) exit; // exit if accessed directly
 
 class PostWordCountPlugin
 {
